@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "conio.h": "c",
+    "stdlib.h": "c",
+    "*.tcc": "c",
+    "cmath": "c",
+    "random": "c",
+    "_mingw.h": "c"
+  }
+}
